@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @inesgrodrigues
 - 👀 I am interested in being a back-end developer and I have a Masters in Mathematical Finance
-- 🌱 I’m currently learning CS50
+- 🌱 I’m currently learning CS50W
 - 💞️ I’m looking to collaborate on front-end/back-end projects
 - 📫 How to reach me inesisabelrodrigues@hotmail.com
 
